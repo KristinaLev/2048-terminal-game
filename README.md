@@ -10,12 +10,12 @@ A terminal based implementation of the 2048 game written in C.
 
 ## Controls
 
-N/n - new Game
-R/r - move right 
-L/l - move left
-U/u - move up 
-D/d - move down 
-E/e - exit game 
+- `N/n` - Start a new game
+- `R/r` - Move right
+- `L/l` - Move left
+- `U/u` - Move up
+- `D/d` - Move down
+- `E/e` - Exit the game
 
 
 
