@@ -1,0 +1,14 @@
+# Compiled program
+2048
+
+# Build files
+*.o
+*.out
+*.dSYM/
+
+# IDE files
+.idea/
+
+# macOS files
+.DS_Store
+__MACOSX/
